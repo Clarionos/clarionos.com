@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1685.97" height="1685.968" viewBox="0 0 1685.97 1685.968">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d5d5d5"/>
+      <stop offset="0.236" stop-color="#d9d9d9" stop-opacity="0.91"/>
+      <stop offset="0.704" stop-color="#e8e8e8" stop-opacity="0.545"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="DentsBG" transform="translate(15089.336 4628.925)">
+    <path id="Path_8548" data-name="Path 8548" d="M842.985,0c465.568,0,842.985,377.417,842.985,842.984s-377.417,842.984-842.985,842.984S0,1308.551,0,842.984,377.417,0,842.985,0Z" transform="translate(-15089.336 -4628.925)" fill="url(#radial-gradient)"/>
+    <g id="Group_11782" data-name="Group 11782" transform="translate(-14470.561 -4083.31)">
+      <ellipse id="Ellipse_672" data-name="Ellipse 672" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(145.845 125.914)" fill="#fff"/>
+      <ellipse id="Ellipse_692" data-name="Ellipse 692" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(145.845 209.577)" fill="#fff"/>
+      <ellipse id="Ellipse_699" data-name="Ellipse 699" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(145.845 294.371)" fill="#fff"/>
+      <ellipse id="Ellipse_706" data-name="Ellipse 706" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(145.845 379.164)" fill="#fff"/>
+      <ellipse id="Ellipse_710" data-name="Ellipse 710" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(145.845 465.089)" fill="#fff"/>
+      <circle id="Ellipse_686" data-name="Ellipse 686" cx="5.088" cy="5.088" r="5.088" transform="translate(217.66 166.88)" fill="#fff"/>
+      <ellipse id="Seed0" cx="2.774" cy="2.774" rx="2.774" ry="2.774" transform="translate(219.974 253.722)" fill="#fff"/>
+      <ellipse id="Ellipse_697" data-name="Ellipse 697" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(217.66 335.072)" fill="#fff"/>
+      <ellipse id="Ellipse_704" data-name="Ellipse 704" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(217.66 420.996)" fill="#fff"/>
+      <ellipse id="Ellipse_709" data-name="Ellipse 709" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(217.66 504.513)" fill="#fff"/>
+      <ellipse id="Ellipse_677" data-name="Ellipse 677" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(219.368 82.472)" fill="#fff"/>
+      <ellipse id="Ellipse_680" data-name="Ellipse 680" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(145.845 40.382)" fill="#fff"/>
+      <ellipse id="Ellipse_683" data-name="Ellipse 683" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(219.368 0)" fill="#fff"/>
+      <ellipse id="Ellipse_673" data-name="Ellipse 673" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(291.69 125.914)" fill="#fff"/>
+      <ellipse id="Ellipse_691" data-name="Ellipse 691" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(291.69 209.577)" fill="#fff"/>
+      <ellipse id="Ellipse_698" data-name="Ellipse 698" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(291.69 294.371)" fill="#fff"/>
+      <ellipse id="Ellipse_705" data-name="Ellipse 705" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(291.69 379.164)" fill="#fff"/>
+      <ellipse id="Ellipse_711" data-name="Ellipse 711" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(291.69 465.089)" fill="#fff"/>
+      <ellipse id="Ellipse_684" data-name="Ellipse 684" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(364.048 167.433)" fill="#fff"/>
+      <ellipse id="Ellipse_689" data-name="Ellipse 689" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(364.048 251.409)" fill="#fff"/>
+      <ellipse id="Ellipse_696" data-name="Ellipse 696" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(364.048 335.072)" fill="#fff"/>
+      <ellipse id="Ellipse_703" data-name="Ellipse 703" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(364.048 420.996)" fill="#fff"/>
+      <ellipse id="Ellipse_678" data-name="Ellipse 678" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(364.048 83.024)" fill="#fff"/>
+      <ellipse id="Ellipse_681" data-name="Ellipse 681" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(291.69 40.382)" fill="#fff"/>
+      <ellipse id="Ellipse_674" data-name="Ellipse 674" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(437.536 125.914)" fill="#fff"/>
+      <ellipse id="Ellipse_688" data-name="Ellipse 688" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(437.536 209.577)" fill="#fff"/>
+      <ellipse id="Ellipse_695" data-name="Ellipse 695" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(437.536 294.371)" fill="#fff"/>
+      <ellipse id="Ellipse_702" data-name="Ellipse 702" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(437.536 379.164)" fill="#fff"/>
+      <ellipse id="Ellipse_675" data-name="Ellipse 675" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(0 125.914)" fill="#fff"/>
+      <ellipse id="Ellipse_694" data-name="Ellipse 694" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(0 209.577)" fill="#fff"/>
+      <ellipse id="Ellipse_701" data-name="Ellipse 701" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(0 294.371)" fill="#fff"/>
+      <ellipse id="Ellipse_708" data-name="Ellipse 708" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(0 379.164)" fill="#fff"/>
+      <ellipse id="Ellipse_687" data-name="Ellipse 687" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(71.445 166.855)" fill="#fff"/>
+      <ellipse id="Ellipse_693" data-name="Ellipse 693" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(71.445 251.409)" fill="#fff"/>
+      <ellipse id="Ellipse_700" data-name="Ellipse 700" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(71.445 335.072)" fill="#fff"/>
+      <ellipse id="Ellipse_707" data-name="Ellipse 707" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(71.445 420.996)" fill="#fff"/>
+      <ellipse id="Ellipse_676" data-name="Ellipse 676" cx="5.088" cy="5.088" rx="5.088" ry="5.088" transform="translate(71.445 81.894)" fill="#fff"/>
+    </g>
+    <g id="Group_11783" data-name="Group 11783" transform="translate(-14816.838 -4484.158)">
+      <ellipse id="Ellipse_672-2" data-name="Ellipse 672" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(344.688 272.987)" fill="#fff"/>
+      <ellipse id="Ellipse_692-2" data-name="Ellipse 692" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(344.688 523.804)" fill="#fff"/>
+      <ellipse id="Ellipse_699-2" data-name="Ellipse 699" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(344.688 778.011)" fill="#fff"/>
+      <ellipse id="Ellipse_706-2" data-name="Ellipse 706" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(344.688 1032.218)" fill="#fff"/>
+      <ellipse id="Ellipse_710-2" data-name="Ellipse 710" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(344.688 1289.814)" fill="#fff"/>
+      <circle id="Ellipse_686-2" data-name="Ellipse 686" cx="9.412" cy="9.412" r="9.412" transform="translate(559.986 395.803)" fill="#fff"/>
+      <ellipse id="Seed0-2" data-name="Seed0" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(559.985 649.213)" fill="#fff"/>
+      <ellipse id="Ellipse_697-2" data-name="Ellipse 697" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(559.986 900.03)" fill="#fff" opacity="0.996"/>
+      <ellipse id="Ellipse_704-2" data-name="Ellipse 704" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(559.986 1157.627)" fill="#fff"/>
+      <ellipse id="Ellipse_709-2" data-name="Ellipse 709" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(559.986 1408.006)" fill="#fff"/>
+      <ellipse id="Ellipse_677-2" data-name="Ellipse 677" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(565.107 142.752)" fill="#fff"/>
+      <ellipse id="Ellipse_680-2" data-name="Ellipse 680" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(344.688 16.566)" fill="#fff"/>
+      <ellipse id="Ellipse_683-2" data-name="Ellipse 683" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(565.107 -104.496)" fill="#fff"/>
+      <ellipse id="Ellipse_673-2" data-name="Ellipse 673" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(781.924 272.987)" fill="#fff"/>
+      <ellipse id="Ellipse_691-2" data-name="Ellipse 691" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(781.924 523.804)" fill="#fff"/>
+      <ellipse id="Ellipse_698-2" data-name="Ellipse 698" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(781.924 778.011)" fill="#fff"/>
+      <ellipse id="Ellipse_705-2" data-name="Ellipse 705" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(781.924 1032.218)" fill="#fff"/>
+      <ellipse id="Ellipse_711-2" data-name="Ellipse 711" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(781.924 1289.814)" fill="#fff"/>
+      <ellipse id="Ellipse_684-2" data-name="Ellipse 684" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(998.846 397.458)" fill="#fff"/>
+      <ellipse id="Ellipse_689-2" data-name="Ellipse 689" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(998.846 649.212)" fill="#fff"/>
+      <ellipse id="Ellipse_696-2" data-name="Ellipse 696" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(998.846 900.03)" fill="#fff"/>
+      <ellipse id="Ellipse_703-2" data-name="Ellipse 703" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(998.846 1157.627)" fill="#fff"/>
+      <ellipse id="Ellipse_678-2" data-name="Ellipse 678" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(998.846 144.407)" fill="#fff"/>
+      <ellipse id="Ellipse_681-2" data-name="Ellipse 681" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(781.924 16.566)" fill="#fff"/>
+      <ellipse id="Ellipse_674-2" data-name="Ellipse 674" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(1219.16 272.987)" fill="#fff"/>
+      <ellipse id="Ellipse_688-2" data-name="Ellipse 688" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(1219.16 523.804)" fill="#fff"/>
+      <ellipse id="Ellipse_695-2" data-name="Ellipse 695" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(1219.16 778.011)" fill="#fff"/>
+      <ellipse id="Ellipse_702-2" data-name="Ellipse 702" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(1219.16 1032.218)" fill="#fff"/>
+      <ellipse id="Ellipse_675-2" data-name="Ellipse 675" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(-92.548 272.987)" fill="#fff"/>
+      <ellipse id="Ellipse_694-2" data-name="Ellipse 694" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(-92.548 523.804)" fill="#fff"/>
+      <ellipse id="Ellipse_701-2" data-name="Ellipse 701" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(-92.548 778.011)" fill="#fff"/>
+      <ellipse id="Ellipse_708-2" data-name="Ellipse 708" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(-92.548 1032.218)" fill="#fff"/>
+      <ellipse id="Ellipse_687-2" data-name="Ellipse 687" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(121.642 395.726)" fill="#fff"/>
+      <ellipse id="Ellipse_693-2" data-name="Ellipse 693" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(121.642 649.212)" fill="#fff"/>
+      <ellipse id="Ellipse_700-2" data-name="Ellipse 700" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(121.642 900.03)" fill="#fff"/>
+      <ellipse id="Ellipse_707-2" data-name="Ellipse 707" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(121.642 1157.627)" fill="#fff"/>
+      <ellipse id="Ellipse_676-2" data-name="Ellipse 676" cx="9.412" cy="9.412" rx="9.412" ry="9.412" transform="translate(121.642 141.017)" fill="#fff"/>
+    </g>
+    <g id="Group_12057" data-name="Group 12057" transform="translate(-14614.056 -4248.272)">
+      <ellipse id="Ellipse_672-3" data-name="Ellipse 672" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(244.79 211.677)" fill="#fff"/>
+      <ellipse id="Ellipse_692-3" data-name="Ellipse 692" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(244.79 349.605)" fill="#fff"/>
+      <ellipse id="Ellipse_699-3" data-name="Ellipse 699" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(244.79 489.397)" fill="#fff"/>
+      <ellipse id="Ellipse_706-3" data-name="Ellipse 706" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(244.79 629.19)" fill="#fff"/>
+      <ellipse id="Ellipse_710-3" data-name="Ellipse 710" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(244.79 770.846)" fill="#fff"/>
+      <circle id="Ellipse_686-3" data-name="Ellipse 686" cx="2.99" cy="2.99" r="2.99" transform="translate(363.185 279.215)" fill="#fff"/>
+      <ellipse id="Seed0-3" data-name="Seed0" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(367 422.383)" fill="#fff"/>
+      <ellipse id="Ellipse_697-3" data-name="Ellipse 697" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(363.185 556.498)" fill="#fff"/>
+      <ellipse id="Ellipse_704-3" data-name="Ellipse 704" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(363.185 698.154)" fill="#fff"/>
+      <ellipse id="Ellipse_709-3" data-name="Ellipse 709" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(363.185 835.842)" fill="#fff"/>
+      <ellipse id="Ellipse_677-3" data-name="Ellipse 677" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(366.001 140.058)" fill="#fff"/>
+      <ellipse id="Ellipse_680-3" data-name="Ellipse 680" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(244.79 70.667)" fill="#fff"/>
+      <ellipse id="Ellipse_683-3" data-name="Ellipse 683" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(366.001 4.093)" fill="#fff"/>
+      <ellipse id="Ellipse_673-3" data-name="Ellipse 673" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(485.233 211.677)" fill="#fff"/>
+      <ellipse id="Ellipse_691-3" data-name="Ellipse 691" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(485.233 349.605)" fill="#fff"/>
+      <ellipse id="Ellipse_698-3" data-name="Ellipse 698" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(485.233 489.397)" fill="#fff"/>
+      <ellipse id="Ellipse_705-3" data-name="Ellipse 705" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(485.233 629.19)" fill="#fff"/>
+      <ellipse id="Ellipse_711-3" data-name="Ellipse 711" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(485.233 770.846)" fill="#fff"/>
+      <ellipse id="Ellipse_684-3" data-name="Ellipse 684" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(604.522 280.125)" fill="#fff"/>
+      <ellipse id="Ellipse_689-3" data-name="Ellipse 689" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(604.522 418.569)" fill="#fff"/>
+      <ellipse id="Ellipse_696-3" data-name="Ellipse 696" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(604.522 556.498)" fill="#fff"/>
+      <ellipse id="Ellipse_703-3" data-name="Ellipse 703" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(604.522 698.154)" fill="#fff"/>
+      <ellipse id="Ellipse_678-3" data-name="Ellipse 678" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(604.522 140.969)" fill="#fff"/>
+      <ellipse id="Ellipse_681-3" data-name="Ellipse 681" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(485.233 70.667)" fill="#fff"/>
+      <ellipse id="Ellipse_674-3" data-name="Ellipse 674" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(725.676 211.677)" fill="#fff"/>
+      <ellipse id="Ellipse_688-3" data-name="Ellipse 688" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(725.676 349.605)" fill="#fff"/>
+      <ellipse id="Ellipse_695-3" data-name="Ellipse 695" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(725.676 489.397)" fill="#fff"/>
+      <ellipse id="Ellipse_702-3" data-name="Ellipse 702" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(725.676 629.19)" fill="#fff"/>
+      <ellipse id="Ellipse_675-3" data-name="Ellipse 675" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(4.348 211.677)" fill="#fff"/>
+      <ellipse id="Ellipse_694-3" data-name="Ellipse 694" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(4.348 349.605)" fill="#fff"/>
+      <ellipse id="Ellipse_701-3" data-name="Ellipse 701" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(4.348 489.397)" fill="#fff"/>
+      <ellipse id="Ellipse_708-3" data-name="Ellipse 708" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(4.348 629.19)" fill="#fff"/>
+      <ellipse id="Ellipse_687-3" data-name="Ellipse 687" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(122.134 279.173)" fill="#fff"/>
+      <ellipse id="Ellipse_693-3" data-name="Ellipse 693" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(122.134 418.569)" fill="#fff"/>
+      <ellipse id="Ellipse_700-3" data-name="Ellipse 700" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(122.134 556.498)" fill="#fff"/>
+      <ellipse id="Ellipse_707-3" data-name="Ellipse 707" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(122.134 698.154)" fill="#fff"/>
+      <ellipse id="Ellipse_676-3" data-name="Ellipse 676" cx="2.99" cy="2.99" rx="2.99" ry="2.99" transform="translate(122.134 139.104)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

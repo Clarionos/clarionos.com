@@ -1,0 +1,1314 @@
+body {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #333;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 400;
+}
+
+.image-5 {
+  max-height: 25px;
+  margin-top: 18px;
+  padding-right: 38px;
+  color: #7e7e7e;
+}
+
+.container {
+  font-family: Inter, sans-serif;
+  color: #6e6e6e;
+  font-style: normal;
+  text-align: left;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.body {
+  background-color: hsla(0, 0%, 100%, 0);
+  font-family: 'Work Sans', sans-serif;
+  color: #333;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.body.platform {
+  background-color: #fff;
+  background-image: url('../images/BG-01-Patern-Squares-Med-NoGrad.svg');
+  background-position: 0px 0px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.body.fadeupelement {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: auto;
+  padding-top: 0px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-image: none;
+}
+
+.section.clarionsrole2 {
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.section.accomplishments {
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.section.pg1top {
+  position: relative;
+  z-index: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  background-image: radial-gradient(circle closest-corner at 50% 0%, #dfdede, #f6f6f6 51%, #fff 94%);
+}
+
+.section.acknowledgements {
+  position: relative;
+  z-index: 0;
+  background-color: #fff;
+  background-image: url('../images/GratitudeBG.svg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.navbar-2 {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  z-index: 10;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: visible;
+  grid-auto-columns: 1fr;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+  background-color: hsla(0, 0%, 100%, 0.95);
+  font-size: 14px;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.text-block {
+  position: relative;
+  z-index: 2;
+  max-width: 480px;
+  min-height: auto;
+  min-width: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.text-block.fadeupelement2 {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+}
+
+.container2 {
+  position: relative;
+  left: 0%;
+  top: 40%;
+  right: 0%;
+  bottom: 0%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  clear: none;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  grid-auto-columns: 1fr;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+  text-align: left;
+}
+
+.container2.top {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+}
+
+.team-member-picture {
+  position: static;
+  margin-right: 10px;
+  float: left;
+  clear: none;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  border-radius: 60px;
+}
+
+.teammembertitle {
+  overflow: auto;
+  margin: auto;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 400;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.team-member-div {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 260px;
+  max-height: 210px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  grid-auto-columns: 1fr;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.team-member-text-div {
+  display: block;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  line-height: 30px;
+}
+
+.teamgrid {
+  display: -ms-grid;
+  display: grid;
+  max-width: 810px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  justify-items: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  grid-auto-flow: row;
+  grid-auto-columns: 1fr;
+  grid-auto-rows: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.teammembername {
+  margin: auto;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.h2 {
+  position: relative;
+  z-index: 2;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+
+.h2.fadeupelement {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+}
+
+.footer {
+  position: static;
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  font-size: 14px;
+  text-align: center;
+}
+
+.footer-flex-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 20px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: left;
+}
+
+.footer-heading {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: 'Work Sans', sans-serif;
+  color: #7e7e7e;
+  font-size: 14px;
+  line-height: 1.5;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.footer-link {
+  display: block;
+  margin-bottom: 5px;
+  font-family: 'Work Sans', sans-serif;
+  color: #7e7e7e;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+.section {
+  height: 100vh;
+  min-height: 0px;
+}
+
+.section.clarionteam {
+  position: relative;
+  z-index: 0;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  background-color: #fff;
+  background-image: url('../images/TeamBG2.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.nav-link {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+}
+
+.nav-link:hover {
+  color: #0367bd;
+}
+
+.nav-link.w--current {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+}
+
+.text-block-2 {
+  margin-top: 15px;
+  font-family: 'Work Sans', sans-serif;
+  color: #c7c7c7;
+  font-size: 12px;
+}
+
+.button {
+  position: relative;
+  z-index: 2;
+  display: inline-block;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: #0367bd;
+}
+
+.section-4 {
+  width: 100vw;
+}
+
+.section-pg2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-right: 10px;
+  padding-left: 10px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+}
+
+.section-pg2.dents {
+  height: 100vh;
+}
+
+.image-11 {
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.image-11.fadeupelement {
+  margin-top: 60px;
+}
+
+.link {
+  color: #0182f2;
+}
+
+.link-2 {
+  color: #0182f2;
+}
+
+.section-5 {
+  height: 200px;
+}
+
+.list {
+  max-width: 600px;
+  min-height: auto;
+  min-width: auto;
+  list-style-type: disc;
+}
+
+.list.fadeupelement2 {
+  position: relative;
+  z-index: 2;
+  font-size: 16px;
+}
+
+.list-item {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.meteor {
+  margin-bottom: 60px;
+}
+
+.meteor.fadeupelement2 {
+  position: relative;
+  z-index: 2;
+}
+
+.utility-page-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  max-height: 100%;
+  max-width: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-image: url('../images/DentsBG.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.utility-page-content {
+  display: block;
+  width: 260px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+}
+
+.utility-page-form {
+  display: block;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+
+.footer-divblock {
+  margin-right: 20px;
+  margin-left: 0px;
+}
+
+.lottie-animation {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  z-index: -100;
+  width: 100%;
+}
+
+.lottie-animation.clarionsrole {
+  position: absolute;
+  left: auto;
+  top: 0px;
+  right: auto;
+  bottom: 0px;
+  z-index: 1;
+  width: 100vh;
+  height: 100vh;
+  background-color: hsla(0, 0%, 82.7%, 0);
+  background-image: radial-gradient(circle closest-side at 50% 50%, #d6d6d6, #e7e6e6 25%, #fff 92%);
+}
+
+.lottie-animation.topanimation {
+  position: absolute;
+  left: auto;
+  top: 0px;
+  right: auto;
+  bottom: auto;
+  z-index: 1;
+  width: 100vw;
+  height: auto;
+}
+
+.fadeupelement {
+  position: relative;
+  z-index: 2;
+}
+
+.lottiedents {
+  position: absolute;
+  z-index: 1;
+  width: 100vh;
+  height: 100vh;
+  background-image: radial-gradient(circle closest-side at 50% 50%, #d3d3d3, #efefef 44%, #fff 98%);
+}
+
+.bold-text {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+}
+
+.bold-text-2 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+}
+
+.bold-text-3 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+}
+
+.bold-text-4 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+}
+
+.bold-text-5 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+}
+
+.bold-text-6 {
+  font-weight: 500;
+}
+
+.bold-text-7 {
+  font-weight: 500;
+}
+
+.bold-text-8 {
+  font-weight: 500;
+}
+
+.bold-text-9 {
+  font-weight: 500;
+}
+
+.bold-text-10 {
+  font-weight: 400;
+}
+
+.bold-text-11 {
+  font-weight: 500;
+}
+
+.bold-text-12 {
+  font-weight: 500;
+}
+
+.bold-text-13 {
+  font-weight: 500;
+}
+
+.image-12 {
+  position: relative;
+  z-index: 3;
+}
+
+.body-2 {
+  background-image: url('../images/BGPlatdformTop.svg');
+  background-position: 50% 0%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.body-2.platformcircletop {
+  background-attachment: fixed;
+}
+
+@media screen and (min-width: 1280px) {
+  .body {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .navbar-2 {
+    z-index: 1001;
+  }
+
+  .footer-flex-container {
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+  }
+
+  .section {
+    margin-bottom: 66px;
+  }
+
+  .link-2 {
+    color: #0182f2;
+  }
+
+  .lottie-animation.topanimation {
+    left: 15%;
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .section {
+    margin-bottom: 0px;
+  }
+
+  .lottie-animation.topanimation {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .body.platform {
+    background-position: 50% 0%;
+  }
+
+  .section.acknowledgements {
+    background-size: contain;
+  }
+
+  .navbar-2 {
+    background-color: hsla(0, 0%, 100%, 0.84);
+  }
+
+  .nav-link {
+    position: relative;
+  }
+
+  .image-11.fadeupelement {
+    margin-top: 40px;
+  }
+
+  .lottie-animation.topanimation {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .image-5 {
+    max-height: 28px;
+    margin-top: 15px;
+  }
+
+  .body {
+    font-weight: 400;
+  }
+
+  .section.clarionsrole2 {
+    height: 100%;
+    background-position: 50% 50%;
+    background-size: cover;
+  }
+
+  .section.accomplishments {
+    width: 100vw;
+    height: 100%;
+  }
+
+  .section.pg1top {
+    overflow: hidden;
+    height: 100%;
+  }
+
+  .section.acknowledgements {
+    height: 100%;
+    background-size: cover;
+  }
+
+  .text-block {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .text-block.fadeupelement2 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .container2 {
+    margin-top: 24px;
+    margin-bottom: 100px;
+  }
+
+  .container2.top {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+  }
+
+  .teammembertitle {
+    font-size: 14px;
+    line-height: 15px;
+  }
+
+  .team-member-div {
+    margin: 10px;
+  }
+
+  .teamgrid {
+    grid-auto-columns: 1fr;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+
+  .footer {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .footer-flex-container {
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+  }
+
+  .section {
+    overflow: visible;
+    height: 820px;
+    padding-top: 140px;
+    padding-bottom: 140px;
+  }
+
+  .section.clarionteam {
+    height: 100%;
+  }
+
+  .container-2 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    -webkit-align-content: space-around;
+    -ms-flex-line-pack: distribute;
+    align-content: space-around;
+  }
+
+  .nav-link {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .button {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+  }
+
+  .list-item {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .utility-page-wrap {
+    font-family: Inter, sans-serif;
+  }
+
+  .utility-page-content {
+    display: block;
+    -webkit-align-self: auto;
+    -ms-flex-item-align: auto;
+    -ms-grid-row-align: auto;
+    align-self: auto;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+  }
+
+  .utility-page-form {
+    display: inline-block;
+  }
+
+  .text-field {
+    font-weight: 300;
+  }
+
+  .lottie-animation.clarionsrole {
+    width: 100vw;
+    height: auto;
+  }
+
+  .lottie-animation.topanimation {
+    width: 100vw;
+  }
+
+  .fadeupelement {
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .container {
+    overflow: visible;
+    font-size: 14px;
+  }
+
+  .body {
+    margin-top: 0px;
+  }
+
+  .body.dentspage {
+    background-size: cover;
+  }
+
+  .section {
+    background-size: auto;
+  }
+
+  .section.clarionsrole2 {
+    width: 100vw;
+  }
+
+  .section.pg1top {
+    overflow: hidden;
+  }
+
+  .section.acknowledgements {
+    background-size: cover;
+  }
+
+  .navbar-2 {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .container2 {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 0px 10px;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -o-object-fit: fill;
+    object-fit: fill;
+  }
+
+  .container2.top {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+  }
+
+  .team-member-div {
+    text-decoration: none;
+  }
+
+  .teamgrid {
+    max-width: 550px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: start;
+    -ms-flex-pack: start;
+    justify-content: start;
+    justify-items: start;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-align-content: start;
+    -ms-flex-line-pack: start;
+    align-content: start;
+    grid-auto-columns: minmax(200px, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 10px;
+  }
+
+  .h2 {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .footer {
+    padding: 40px 20px;
+  }
+
+  .section {
+    padding: 100px 10px;
+  }
+
+  .image-11 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .list-item {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .lottie-animation.clarionsrole {
+    left: 0%;
+    top: 0%;
+    right: 0%;
+    bottom: auto;
+    width: 100%;
+  }
+
+  .lottie-animation.topanimation {
+    position: absolute;
+    left: auto;
+    width: 200%;
+  }
+
+  .image-12 {
+    position: relative;
+    z-index: 2;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .image-5 {
+    position: relative;
+    z-index: 5;
+  }
+
+  .container {
+    position: relative;
+    z-index: 5;
+  }
+
+  .body.dentspage {
+    background-size: cover;
+  }
+
+  .section {
+    background-image: none;
+  }
+
+  .section.clarionsrole2 {
+    padding-top: 100px;
+    background-position: 50% -20%;
+    background-size: contain;
+  }
+
+  .section.accomplishments {
+    height: 100vh;
+  }
+
+  .section.pg1top {
+    overflow: hidden;
+    background-image: none;
+  }
+
+  .section.acknowledgements {
+    background-position: 50% 50%;
+  }
+
+  .navbar-2 {
+    z-index: 4;
+    display: inline-block;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .text-block {
+    margin-bottom: 0px;
+    text-align: left;
+  }
+
+  .container2 {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .team-member-picture {
+    width: 75px;
+  }
+
+  .teammembertitle {
+    width: auto;
+  }
+
+  .team-member-div {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 270px;
+    margin: 0px;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .teamgrid {
+    max-width: 270px;
+    margin-bottom: 0px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    justify-items: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .footer {
+    position: relative;
+    display: block;
+    height: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: Inter, sans-serif;
+    text-align: center;
+  }
+
+  .footer-flex-container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .footer-heading {
+    margin-top: 20px;
+  }
+
+  .section {
+    height: auto;
+    min-height: 690px;
+    min-width: auto;
+  }
+
+  .section.clarionteam {
+    padding-top: 100px;
+    background-position: 50% 50%;
+    background-size: cover;
+  }
+
+  .container-2 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .nav-link {
+    background-color: #fff;
+    font-size: 18px;
+  }
+
+  .text-block-2 {
+    text-align: left;
+  }
+
+  .icon {
+    position: relative;
+    z-index: 5;
+    color: #000;
+    font-size: 24px;
+  }
+
+  .menu-button {
+    color: #5f5757;
+  }
+
+  .menu-button.w--open {
+    background-color: #fff;
+    color: #fff;
+  }
+
+  .section-pg2 {
+    margin-top: 60px;
+  }
+
+  .section-pg2.dents {
+    height: 100%;
+  }
+
+  .list-item {
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .lottie-animation {
+    left: -50%;
+    top: 0%;
+    right: 0%;
+    bottom: auto;
+    width: 200%;
+    background-image: radial-gradient(circle closest-corner at 50% 0%, #ccc, #fff);
+  }
+
+  .lottie-animation.clarionsrole {
+    left: auto;
+    top: 0px;
+    right: auto;
+    bottom: 0px;
+    width: 100vh;
+    height: 100vh;
+  }
+
+  .lottie-animation.topanimation {
+    position: absolute;
+    left: auto;
+  }
+
+  .fadeupelement {
+    z-index: 2;
+  }
+
+  .lottiedents {
+    top: 0px;
+    bottom: 0px;
+    background-image: radial-gradient(circle farthest-corner at 50% 50%, #e7e7e7, transparent);
+  }
+}
+
+@media screen and (max-width: 479px) {
+  #w-node-bf7e297d-057a-ce71-4809-7bc3732e2215-2d83dd66 {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+  }
+}
+
